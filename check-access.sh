@@ -5,8 +5,6 @@
 # Author      : Naman Tyagi
 # Version     : v1
 # Description : Lists all users with permissions on a given GitHub repository using GitHub REST API.               
-# Usage       : ./check-access.sh <github-username> <token> <repo-owner> <repo-name>
-# Example     : ./check-access.sh naman ghp_xxx namanDev myRepo
 # ==========================================================
 
 API_URL="https://api.github.com"
